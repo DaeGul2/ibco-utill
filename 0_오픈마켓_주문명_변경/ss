@@ -1,0 +1,12 @@
+if ('청소' in p or '틴에이' in p) p and '트리트' in p and '세트' in p:
+        print('모두바른 청소년 샴푸 트리트먼트 세트')
+        continue
+    if ('청소' in p or '틴에이' in p) p and '리필' in p and '세트' in p:
+        print("모두바른 청소년 샴푸 리필팩 세트")
+        continue
+    if ('청소' in p or '틴에이' in p) p and '리필' in p:
+        print("모두바른 틴에이저 리필팩")
+        continue
+    if ('청소' in p or '틴에이' in p) p:
+        print("모두바른 청소년 샴푸")
+        continue
